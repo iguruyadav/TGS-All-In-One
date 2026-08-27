@@ -30,7 +30,7 @@
   const CREDIT = "Developed by Yadav Guru Prasad";
   let activeTab = tabs[0];
   let isOnline = false;
-  let appVersion = "V19.3";
+  let appVersion = "V19.4";
   const themes = [
     { id: "deep-space", icon: "🌌", name: "Deep Space (Blue/Purple)" },
     { id: "light", icon: "☀️", name: "Clean (Blue/White)" },

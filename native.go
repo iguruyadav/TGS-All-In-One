@@ -2110,7 +2110,7 @@ func (a *App) resolveAdapterName(uiLabel string) string {
 
 // GetAppVersionNative returns the application version string
 func (a *App) GetAppVersionNative() string {
-	return "V19.3"
+	return "V19.4"
 }
 
 // SetDesktopWallpaper sets the system wallpaper to the specified image path

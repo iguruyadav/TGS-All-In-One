@@ -1,7 +1,7 @@
 {
   "$schema": "https://wails.io/schemas/config.v2.json",
   "name": "TGS_All_In_One",
-  "outputfilename": "TGS_All_In_One_v19.3",
+  "outputfilename": "TGS_All_In_One_v19.4",
   "frontend:install": "npm install --prefer-offline",
   "frontend:build": "npm run build",
   "frontend:dev:watcher": "npm run dev",
@@ -9,7 +9,7 @@
   "info": {
     "companyName": "TGS WORLD",
     "productName": "TGS All In One",
-    "productVersion": "19.3.0",
+    "productVersion": "19.4.0",
     "copyright": "Copyright 2026 TGS WORLD",
     "comments": "TGS All-In-One IT Management Suite"
   },
